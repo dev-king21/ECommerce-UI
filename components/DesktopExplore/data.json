@@ -1,0 +1,10 @@
+[
+  {
+    "link": "/home",
+    "label": "Home"
+  },
+  {
+    "link": "/cart",
+    "label": "Cart"
+  }
+]
